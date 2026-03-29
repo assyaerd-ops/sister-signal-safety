@@ -45,3 +45,7 @@ Demo Video: [PASTE YOUR LOOM LINK HERE]
 
 ## Project Approach
 This project focuses on rapid prototyping and real-world applicability using AI-assisted development tools. The goal is to demonstrate a functional, meaningful solution rather than a fully scaled production system.
+
+## Source Code Structure
+The source code for this project is synced with Lovable and follows the platform-generated project structure.  
+To avoid breaking the working prototype and deployment setup, the files have been kept in their original structure within the repository.
