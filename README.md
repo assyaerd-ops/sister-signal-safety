@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+# SisterSignal
 
-## Project info
+## Problem
+Women often feel unsafe when alone, especially at night or in unfamiliar environments. Existing safety solutions rely heavily on personal contacts or passive tracking, which are not always immediate, reliable, or accessible when needed most.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Solution
+SisterSignal is a women-only mutual aid platform designed to provide real-time, location-based support. Users can request help such as escort, pickup, or check-in, and nearby verified users can respond instantly.
 
-## How can I edit this code?
+Instead of passive monitoring, SisterSignal enables active, human-to-human assistance.
 
-There are several ways of editing your application.
+## Key Features
+- Real-time help requests
+- Multiple support options (escort, pickup, check-in)
+- Location-based matching
+- User-to-user connection system
+- Simple and accessible interface
 
-**Use Lovable**
+## Live Demo
+Live App: [PASTE YOUR LOVABLE LINK HERE]  
+Demo Video: [PASTE YOUR LOOM LINK HERE]
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Technologies Used
+- AI-assisted development (ChatGPT)
+- Lovable (development and deployment)
+- Web-based interface (frontend + backend managed within platform)
 
-Changes made via Lovable will be committed automatically to this repo.
+## How It Works
+1. User opens the app
+2. Selects "Request Help"
+3. Chooses type of support needed
+4. Request is sent with location data
+5. Nearby users receive the request
+6. A user accepts and provides support
 
-**Use your preferred IDE**
+## Target Users
+- Female university students
+- Women in urban environments
+- Individuals seeking quick, nearby support in unsafe situations
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Future Improvements
+- Stronger user verification system
+- Real-time tracking during active requests
+- Expanded deployment beyond campus environments
+- Enhanced AI-based matching and prioritization
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Project Approach
+This project focuses on rapid prototyping and real-world applicability using AI-assisted development tools. The goal is to demonstrate a functional, meaningful solution rather than a fully scaled production system.
