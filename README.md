@@ -16,7 +16,7 @@ Instead of passive monitoring, SisterSignal enables active, human-to-human assis
 - Simple and accessible interface
 
 ## Live Demo
-Live App: [PASTE YOUR LOVABLE LINK HERE]  
+Live App: [https://sister-signal-safety.lovable.app/]  
 Demo Video: [PASTE YOUR LOOM LINK HERE]
 
 ## Technologies Used
