@@ -17,7 +17,7 @@ Instead of passive monitoring, SisterSignal enables active, human-to-human assis
 
 ## Live Demo
 Live App: [https://sister-signal-safety.lovable.app/]  
-Demo Video: [PASTE YOUR LOOM LINK HERE]
+Demo Video: [https://www.loom.com/share/21d8ef9c42ed44a09e268a1c09196c8f]
 
 ## Technologies Used
 - AI-assisted development (ChatGPT)
